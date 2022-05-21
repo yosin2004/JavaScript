@@ -1,3 +1,2 @@
-
-JavaScript
-javascript methods number methods array methods and string methods
+# JavaScript
+## javascript methods number methods array methods and string methods
